@@ -91,11 +91,9 @@ Scientific cooking and food system experimentation.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jeramee&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeramee&layout=compact&theme=tokyonight&cache_seconds=86400&hide=html,css)
+![trophy](https://github-profile-trophy.vercel.app/?username=jeramee&theme=tokyonight)
 
 ---
 
