@@ -93,9 +93,9 @@ Scientific cooking and food system experimentation.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeramee&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.hackclub.dev/api?username=jeramee&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeramee&layout=compact&theme=tokyonight&hide=html,css)
+![Languages](https://github-readme-stats.hackclub.dev/api/top-langs/?username=jeramee&layout=compact&theme=tokyonight&hide=html,css)
 
 ---
 
