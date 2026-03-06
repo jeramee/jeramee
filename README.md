@@ -2,7 +2,7 @@
 **jeramee/jeramee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👋 Hi, I'm Jeramee Oliver
+# 👋 Hi, I'm Jeramee
 
 Software developer and systems builder interested in AI, bioinformatics pipelines, developer tooling, and experimental engineering systems.
 
@@ -91,11 +91,9 @@ Scientific cooking and food system experimentation.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jeramee&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeramee&layout=compact)
+![trophy](https://github-profile-trophy.vercel.app/?username=jeramee&theme=tokyonight)
 
 ---
 
