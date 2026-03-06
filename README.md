@@ -50,6 +50,10 @@ Features:
 - Docker development environments  
 - Plugin-based stack architecture  
 
+**TL;DR:** 
+
+Once ForgeStack is configured, you can generate a fully wired, production-ready full-stack project with a single command. Frontend, backend, databases, workers, and infrastructure are created and connected automatically!
+
 Repository  
 https://github.com/jeramee/ForgeStack
 
