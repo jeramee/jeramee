@@ -2,7 +2,7 @@
 **jeramee/jeramee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👋 Hi, I'm Jeramee Oliver
+# 👋 Hi, I'm Jeramee
 
 Software developer and systems builder interested in AI, bioinformatics pipelines, developer tooling, and experimental engineering systems.
 
