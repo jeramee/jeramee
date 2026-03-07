@@ -1,8 +1,12 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
@@ -10,9 +14,18 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.svg
           user: jeramee
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          base: header, activity, community, repositories, metadata
 
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_ignored: html, css
+          plugin_languages_indepth: yes
+
+          plugin_repositories: yes
+          plugin_repositories_featured: jeramee/ForgeStack
