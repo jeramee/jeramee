@@ -90,10 +90,9 @@ Experimental research pipeline for genomic variant interpretation.
 Scientific cooking and food system experimentation.
 
 ---
+## 📊 GitHub Metrics
 
-## 🏆 GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=jeramee&theme=tokyonight)
+![Metrics](github-metrics.svg)
 
 ---
 
