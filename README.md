@@ -92,7 +92,7 @@ Scientific cooking and food system experimentation.
 ---
 ## 📊 GitHub Metrics
 
-![Metrics](github-metrics.svg)
+![Metrics](metrics.svg)
 
 ---
 
