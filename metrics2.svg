@@ -31,18 +31,18 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 284mb of code in 43918 edited files across 378 commits</small>
+                <small>estimation from 284mb of code in 43928 edited files across 383 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.6353243588334" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="382.6353243588334" y="0" width="60.38506648594995" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.0203908447833" y="0" width="14.533975640643012" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.5543664854263" y="0" width="0.8094908441101384" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="458.3638573295365" y="0" width="0.7290621804638944" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="459.09291951000034" y="0" width="0.35672477876040004" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.4496442887608" y="0" width="0.27904875386996325" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="459.7286930426307" y="0" width="0.27130695736925525" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.64430743928307" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="382.64430743928307" y="0" width="60.37805496673004" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="443.0223624060131" y="0" width="14.532288050391372" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.5546504564045" y="0" width="0.8093968513244695" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="458.3640473077289" y="0" width="0.7289775265289348" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="459.09302483425785" y="0" width="0.3566833582107832" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.4497081924686" y="0" width="0.2790163525526358" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="459.7287245450213" y="0" width="0.271275454978734" height="8" fill="#878787"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -350,7 +350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeramee/ForgeStack</span>
-                                        <span>created 10 days ago</span>
+                                        <span>created 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ForgeStack is a modular developer platform that generates complete application stacks using composable plugins.  Instead of manually wiring infrastructure, frameworks, and services, ForgeStack lets developers build production-ready systems from reusable components.</div>
@@ -400,7 +400,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Mar 2026, 00:29:07  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Mar 2026, 00:30:43  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
